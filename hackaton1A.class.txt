@@ -1,0 +1,39 @@
+Soultion:
+Soultions :
+
+1A)
+
+
+import java.util.Scanner;
+
+public class HouseholDetails {
+  public static void main(String[] args) {
+  Scanner sc = new Scanner(System.in);
+    System.out.println("Enter the number of family members :");
+      int Familymemebers = Scanner.nextInt();
+    System.out.println("Enter water consumed in liters :");
+      int Waterconsumed = Scanner.nextInt();
+    System.out.println("House Number :");
+      int HouseMembers = Scanner.nextInt();
+    System.out.println("Enter the water usage status :")
+      int WaterUsageStatus = Scanner.nextInt();
+    System.out.println("Family Numbers" + familynumbers );
+    System.out.println("Water Consumed (Liters)" + waterconsumed);
+    System.out.println("House Number" + housenumber);
+    System.out.println("Water Usage Status" + waterusagestatus);
+      Scanner.close();
+    }
+}
+
+
+
+
+    
+       
+     
+
+
+
+
+
+ 
